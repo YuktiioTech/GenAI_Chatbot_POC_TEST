@@ -22,3 +22,7 @@
 - [x] Show "thinking..." text during delay
 - [x] Add Enter key support for sending messages
 - [x] Optimize overall UI performance and responsiveness
+
+- [ ] ## Future
+- [ ] As of now, the resonnces comes at once. liike all 50 lines are shown at once. we can add some delay for each words/charatcer.
+
