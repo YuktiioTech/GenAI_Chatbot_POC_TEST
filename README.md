@@ -1,5 +1,9 @@
 # 🤖 AI Chatbot POC
 
+
+==================================================================================================================
+THE API KEY USAGE IS LIMITED. DONT USE MORE THAN 5 TIMES THIS IS POC ONLY
+==================================================================================================================
 A modern, responsive AI chatbot proof-of-concept built with HTML, CSS, and JavaScript, featuring a sleek dark theme and smooth animations.
 
 ## ✨ Features
@@ -43,19 +47,6 @@ A modern, responsive AI chatbot proof-of-concept built with HTML, CSS, and JavaS
 3. **Start chatting!** The chatbot is ready to use
 
 ## 🔧 Configuration
-
-### API Key Setup
-The chatbot uses Groq API. To use your own API key:
-
-1. Get your API key from [Groq Console](https://console.groq.com/)
-2. Open `index.html` in a text editor
-3. Find the line: `const GROQ_API_KEY = "your-api-key-here";`
-4. Replace `"your-api-key-here"` with your actual Groq API key
-
-```javascript
-const GROQ_API_KEY = "gsk_your_actual_api_key_here";
-```
-
 ## 📖 Usage
 
 ### Basic Chat
@@ -155,15 +146,9 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Google Fonts** for the Inter typeface
 - **Open source community** for inspiration and best practices
 
-## 📞 Support
-
-For questions, issues, or contributions:
-- Open an issue on GitHub
-- Check the troubleshooting section above
-- Review the code comments for implementation details
-
 ---
 
-**Made with ❤️ for modern web development**
+**Made with for modern web development**
 
-*Last updated: 2024*
+*Last updated: 03-01-2026*
+
